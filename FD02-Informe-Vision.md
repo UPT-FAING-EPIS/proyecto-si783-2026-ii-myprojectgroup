@@ -1,8 +1,6 @@
 <center>
 
-[comment]: <img src="./media/media/image1.png" style="width:1.088in;height:1.46256in" alt="escudo.png" />
-
-![./media/media/image1.png](./media/logo-upt.png)
+![Logo de la Universidad Privada de Tacna](./media/logo-upt.png)
 
 **UNIVERSIDAD PRIVADA DE TACNA**
 
@@ -10,19 +8,20 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *{Nombre de Proyecto}***
+**Proyecto *SchemaSafe NoSQL – Sistema Multimotor de Análisis Preventivo de Cambios de Esquema***
 
-Curso: *{Nombre de Asignatura}*
+Curso: *BASE DE DATOS II*
 
-Docente: *{Nombre de Docente}*
+Docente: *PATRICK JOSE CUADROS QUIROGA*
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+***Gabriela Estefania Cohaila Alvarado (2022075746)***  
+***Victoria Isabel Lavarello Vidaurre (2000000000)***
 
 **Tacna – Perú**
 
-***{Año}***
+***2026***
 
 **  
 **
